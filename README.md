@@ -1,5 +1,10 @@
 # HACKZILLA
-- A name generators for Programmers, Gamers and etc.
+- A name generator for Programmers, Gamers and etc.
+
+<p align="center">
+   <img src="image-removebg-preview.png" height="50%" width="50%">
+</p>
+
 ---
 ## Used Languages
 - HTML5
