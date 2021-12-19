@@ -22,5 +22,6 @@
    - First click `Choose a name`
    - Then press any key until the name is generated
    - Now the name is generated
+   - If you don't like the name, click `ReRun` to rerun a name
 ---
 > ### Don't forget to give a star 🌟 to my `HACKZILLA` repository and fork too....
