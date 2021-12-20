@@ -1,4 +1,4 @@
-var passwords = ['password123', 'qwertyuiop', 'admin2015', 'trustno1', 'letmein6969','HackerN01','MoonLighter001','HackCrusher010','LightningCrusher','LegendaryHawk','Robloxer','ManHunter','Clicker010','Virusishere'];
+var passwords = ['password123', 'qwertyuiop', 'admin2015', 'trustno1', 'letmein6969','HackerN01','MoonLighter001','HackCrusher010','LightningCrusher','LegendaryHawk','Robloxer','ManHunter','Clicker010','Virusishere','techie','SkullCrusher01','BoomBlaster','Bugger','RuntimeTerror','FrontPageFreebird'];
 var indexOld;
 var index = Math.floor((Math.random() * passwords.length));
 var password = passwords[index];
