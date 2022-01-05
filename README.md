@@ -18,7 +18,7 @@
 - Go to https://rededge967.github.io/HACKZILLA/
 
 ### To run this programme `offline`
-- Download `HACKZILLA.zip` file from [here](https://github.com/RedEdge967/HACKZILLA/releases)
+- Download `Source code (zip)` file from [here](https://github.com/RedEdge967/HACKZILLA/releases)
 - Extract the `.zip` file
 - Run `index.html` file in your web browser
 ---
